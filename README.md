@@ -1,2 +1,2 @@
 # ulb-logo
-Logos de l'Université libre de Bruxelles
+Logos de l'Université libre de Bruxelles (ULB)
